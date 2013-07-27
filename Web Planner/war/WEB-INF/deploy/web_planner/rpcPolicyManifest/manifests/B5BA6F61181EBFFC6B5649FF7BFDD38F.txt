@@ -1,2 +1,0 @@
-serviceClass: com.maxrad.webplanner.client.GreetingService
-path: FB1BB1B96507CAB1108DF3FD20D6C06B.gwt.rpc
